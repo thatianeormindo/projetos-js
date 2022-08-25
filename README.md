@@ -1,5 +1,6 @@
 # Projetos em JavaScript
- Aqui você vai encontrar minhas boas praticas antes da entrada para React.js 
+ Aqui você vai encontrar minhas boas praticas antes da entrada para React.js.
+ 
 
 * Relógio
 
