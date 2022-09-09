@@ -1,7 +1,8 @@
 # Projetos em JavaScript
- Aqui você vai encontrar minhas boas praticas antes da entrada para React.js.
- conteudo aprendido do canal no youtube.
- 
+***
+ Aqui você vai encontrar minhas boas praticas<br> antes da entrada para React.js. 💻
+
+
 
 * Relógio  [Link do repositório](https://github.com/thatianeormindo/projetos-js/tree/main/relogio)
 
