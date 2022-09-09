@@ -3,7 +3,7 @@
  conteudo aprendido do canal no youtube.
  
 
-* Relógio - Link do repositório
+* Relógio  [Link do repositório](https://github.com/thatianeormindo/projetos-js/tree/main/relogio)
 
 ![Alt ou título da imagem](https://live.staticflickr.com/65535/52309836847_dc4cc8c177_m.jpg)
 
