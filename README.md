@@ -1,6 +1,6 @@
 # Projetos em JavaScript
 ***
- Aqui você vai encontrar minhas boas praticas<br> antes da entrada para React.js. 💻
+ Aqui você vai encontrar boas praticas<br> antes da entrada para React.js. 💻
 
 
 
